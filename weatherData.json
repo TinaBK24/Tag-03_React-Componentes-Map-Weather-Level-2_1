@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "day": "Montag",
+        "temperature": 15,
+        "condition": "Sonnig"
+    },
+    {
+        "id": 2,
+        "day": "Dienstag",
+        "temperature": 12,
+        "condition": "Wolkig"
+    },
+    {
+        "id": 3,
+        "day": "Mittwoch",
+        "temperature": 10,
+        "condition": "Regen"
+    },
+    {
+        "id": 4,
+        "day": "Donnerstag",
+        "temperature": 8,
+        "condition": "Nebel"
+    },
+    {
+        "id": 5,
+        "day": "Freitag",
+        "temperature": 14,
+        "condition": "Teilweise sonnig"
+    },
+    {
+        "id": 6,
+        "day": "Samstag",
+        "temperature": 16,
+        "condition": "Sonnig"
+    },
+    {
+        "id": 7,
+        "day": "Sonntag",
+        "temperature": 13,
+        "condition": "Bewölkt"
+    }
+]
